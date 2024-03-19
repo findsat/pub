@@ -1,0 +1,30 @@
+version: "3.8"
+services:
+  cloudreve:
+    container_name: cloudreve
+    image: cloudreve/cloudreve:latest
+    restart: unless-stopped
+        networks:
+               net01:
+                    ipv4_address: 172.20.1.11
+    volumes:
+      - /home/mydata/cloudreve/data:/data
+      - /home/mydata/cloudreve/uploads:/cloudreve/uploads
+      - /home/mydata/cloudreve/conf.ini:/cloudreve/conf.ini
+      - /home/mydata/cloudreve/cloudreve.db:/cloudreve/cloudreve.db
+      - /home/mydata/cloudreve/avatar:/cloudreve/avatar
+    depends_on:
+      - aria2
+  aria2:
+    container_name: aria2
+    image: p3terx/aria2-pro
+    restart: unless-stopped
+    networks:
+       net01:
+        ipv4_address: 172.20.1.12
+    environment:
+      - RPC_SECRET=your_aria_rpc_token
+      - RPC_PORT=6800
+    volumes:
+      - /home/mydata/cloudreve/aria2/config:/config
+      - /home/mydata/cloudreve/aria2:/data

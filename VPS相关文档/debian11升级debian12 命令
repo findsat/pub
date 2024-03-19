@@ -1,0 +1,37 @@
+apt update
+apt upgrade -y
+apt dist-upgrade -y
+apt autoclean
+apt autoremove -y
+
+
+sed -i 's/bullseye/bookworm/g' /etc/apt/sources.list
+sed -i 's/bullseye/bookworm/g' /etc/apt/sources.list.d/*.list
+
+
+sed -i 's/non-free/non-free non-free-firmware/g' /etc/apt/sources.list
+
+
+
+apt update
+apt upgrade -y
+apt dist-upgrade -y
+
+
+rm -rf /var/lib/dbus/machine-id
+
+
+
+apt autoclean
+apt autoremove -y
+
+
+
+cat /etc/debian_version 
+
+
+lsb_release -a
+
+
+
+uname -a

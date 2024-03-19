@@ -1,0 +1,76 @@
+
+
+docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /home/mydata/portainer:/data portainer/portainer-ce:latest
+
+docker run -d \
+  -p 9001:9001 \
+  --name portainer_agent \
+  --restart=always \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  -v /home/mydata/:/home/docker/volumes \
+  portainer/agent:2.18.3
+
+
+docker run -itd --network=host \
+    -v /home/mydata/x-ui/db/:/etc/x-ui/ \
+    -v /home/mydata/cert/:/root/cert/ \
+    --name x-ui --restart=unless-stopped \
+    enwaiax/x-ui:alpha-zh
+	
+docker run -d -p6688:6688 -p9993:9993/udp -p9933:9933\
+    -v /home/mydata/ztncui:/opt/key-networks/ztncui/etc \
+    -v /home/mydata/zerotier-one:/var/lib/zerotier-one \
+    -v /home/mydata/ztncui-mkworld-conf/:/etc/zt-mkworld \
+    --env-file /home/mydata/ztncui/denv.env  \
+    --restart always \
+    --cap-add=NET_ADMIN --device /dev/net/tun:/dev/net/tun \
+    --name ztncui \
+    ghcr.io/kmahyyg/ztncui-aio
+
+
+
+docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer-ce:/data portainer/portainer-ce:latest
+
+
+
+
+docker network create -d macvlan \
+  --subnet=172.20.0.0/16 \
+  --ip-range=172.20.1.0/24 \
+  --gateway=172.20.1.254 \
+  --ipv6 \
+  --subnet=fd68:c188:8888::/48 \
+  --subnet=fd68:c188:8888:01::/56 \
+  --gateway=fd68:c188:8888:01::1 \
+  cf0
+
+docker network create \
+  --driver=bridge \
+  --subnet=172.21.0.0/16 \
+  --ip-range=172.21.1.0/24 \
+  --gateway=172.21.1.254 \
+  br1
+  
+
+
+docker run --name cloudflared --net br1 --ip 172.21.1.2 cloudflare/cloudflared:latest tunnel --no-autoupdate run --token eyJhIjoiMDUxNjNiMzQ5NzVlZmY4YzE5ZmM2NDg4NTI3YjM3YWMiLCJ0IjoiZmZlNGI4MzYtZTI3Ni00NmMzLWJlYzMtMjdkMGJhZGIzZjUyIiwicyI6IlpEYzROak15WlRVdE5USmtNeTAwWkRrNUxUbGpNelV0WXpkbFpXVmhZakJqWWpZeiJ9
+
+#群晖安装zeoriter 命令
+docker run -d           \
+  --name zerotier-one   \
+  --restart=always      \
+  --device=/dev/net/tun \
+  --net=host            \
+  --cap-add=NET_ADMIN   \
+  --cap-add=SYS_ADMIN   \
+  -v /volume1/docker/zerotier-one:/var/lib/zerotier-one zerotier/zerotier-synology:latest
+  
+  
+#群晖设置zetrotier转发命令  
+iptables -t nat -A POSTROUTING -o ovs_eth0 -j MASQUERADE
+
+
+#添加用户自定义脚本，使得启动时自动设置NAT转发   参见网页https://www.openos.org/threads/4430/
+#sleep 1m：为保证开机启动已加载所有网络模块，延迟1分钟再添加NAT，否则会遇到模块不存在错误
+
+sleep 1m iptables -t nat -A POSTROUTING -o ovs_eth0 -j MASQUERADE

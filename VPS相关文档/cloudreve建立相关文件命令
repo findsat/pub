@@ -1,0 +1,8 @@
+#ÏÈ½øÈë/home/mydata
+
+mkdir -vp /home/mydata/cloudreve/{uploads,avatar} \
+&& touch /home/mydata/cloudreve/conf.ini \
+&& touch /home/mydata/cloudreve/cloudreve.db \
+&& mkdir -p /home/mydata/aria2/config \
+&& mkdir -p /home/mydata/aria2/downloads \
+&& chmod -R 777 /home/mydata/aria2/downloads

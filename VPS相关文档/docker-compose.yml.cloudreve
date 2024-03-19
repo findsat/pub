@@ -1,0 +1,53 @@
+version: "3.8"
+services:
+  cloudreve:
+    container_name: cloudreve
+    image: cloudreve/cloudreve:latest
+    restart: unless-stopped
+    networks:
+      netfind01:
+         ipv4_address: 172.20.1.11
+    volumes:
+      - /home/mydata/cloudreve/data:/data
+      - /home/mydata/cloudreve/uploads:/cloudreve/uploads
+      - /home/mydata/cloudreve/conf.ini:/cloudreve/conf.ini
+      - /home/mydata/cloudreve/cloudreve.db:/cloudreve/cloudreve.db
+      - /home/mydata/cloudreve/avatar:/cloudreve/avatar
+    depends_on:
+      - aria2
+      - caddy            
+  aria2:
+    container_name: aria2
+    image: p3terx/aria2-pro
+    restart: unless-stopped
+    networks:
+      netfind01:
+         ipv4_address: 172.20.1.12
+    environment:
+      - RPC_SECRET=nV05AKlRM3Io5td2c7
+      - RPC_PORT=6800
+    volumes:
+      - /home/mydata/aria2/config:/config
+      - /home/mydata/aria2/data:/data
+      - /home/mydata/aria2/downloads:/downloads
+  caddy:
+    container_name: caddy
+    image: caddy
+    restart: unless-stopped
+    networks:
+      netfind01:
+         ipv4_address: 172.20.1.10
+    ports:
+      - "80:80"
+      - "80:80/udp"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - /home/mydata/caddy/:/etc/caddy/
+      - /home/mydata/caddy/sites:/srv
+      - /home/mydata/caddy/data:/data
+      - /home/mydata/caddy/config:/config
+networks:
+  netfind01:
+    external:
+        name: netfind
