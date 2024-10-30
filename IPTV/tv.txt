@@ -1,22 +1,17 @@
 央视,#genre#
 CCTV-1综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225548/index.m3u8
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226282/index.m3u8
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
 
 CCTV-2财经,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225494/index.m3u8
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226288/index.m3u8
 
 CCTV-3综艺,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 
 CCTV-4国际,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225510/index.m3u8
 CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 
@@ -24,53 +19,41 @@ CCTV-5体育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000185
 CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 
 CCTV-5+体育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5+体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225534/index.m3u8
 CCTV-5+体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV-5+体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226321/index.m3u8
 
 CCTV-6电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 
 CCTV-7国防军事,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-7国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225497/index.m3u8
 CCTV-7国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-7国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226286/index.m3u8
 
 CCTV-8电视剧,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 
 CCTV-9记录,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-9记录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225577/index.m3u8
 CCTV-9记录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV-9记录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226287/index.m3u8
 
 CCTV-10科教,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225495/index.m3u8
 CCTV-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226285/index.m3u8
 
 CCTV-11戏曲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-12社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8
+
 CCTV-12社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV-12社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226284/index.m3u8
 
 CCTV-13新闻,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 CCTV-14少儿,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225507/index.m3u8
 CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226283/index.m3u8
 
 CCTV-15音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225502/index.m3u8
 
 CCTV-16奥林匹克,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-16奥林匹克,https://tv.cry33.com/ys4k.php?id=16-4k
 CCTV-16奥林匹克,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 
 CCTV-17农业农村,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226305/index.m3u8
+
 
 CGTN,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN阿语,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
