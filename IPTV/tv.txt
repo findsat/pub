@@ -290,14 +290,5 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 陕西导视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 测试,#genre#
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-节目待定,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
+
 
