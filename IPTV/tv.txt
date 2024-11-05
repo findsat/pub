@@ -70,8 +70,6 @@ CETV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001308/index
 
 凤凰资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -235,6 +233,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 纪实科教,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+金鹰纪实,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226313/index.m3u8
@@ -246,9 +245,11 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 乐游,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 游戏风云,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 茶频道,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-金鹰纪实,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 快乐垂钓,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 精彩综艺,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 卡酷少儿,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001066/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 京视剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 京视剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001320/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
