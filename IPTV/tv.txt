@@ -324,4 +324,4 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 陕西导视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西导视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-测试,#genre#
+
