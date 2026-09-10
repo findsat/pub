@@ -58,6 +58,8 @@ CCTV-17农业农村,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900
 
 CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
+CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226012/index.m3u8
+CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227140/index.m3u8
 CCTV-4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CGTN,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -80,10 +82,6 @@ CETV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001308/index
 凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-
-
-
-
 
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -117,6 +115,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227112/index.m3u8
+北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227112/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
