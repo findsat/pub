@@ -56,6 +56,7 @@ CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV-17农业农村,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 
 CGTN,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227084/index.m3u8
