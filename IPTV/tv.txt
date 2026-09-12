@@ -347,6 +347,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 
 咸阳旬邑,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227077/index.m3u8
 咸阳旬邑,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002708/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+咸阳泾阳,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226979/index.m3u8
 
 汉中宁强,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
 汉中宁强,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -397,7 +398,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 渭南蒲城,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226976/index.m3u8
 渭南蒲城,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002615/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227076/index.m3u8
+百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227076/index.m3u8
 无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227079/index.m3u8
 无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227082/index.m3u8
 无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227085/index.m3u8
@@ -410,7 +411,6 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227122/index.m3u8
 
 陕西地市1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227040/index.m3u8
-陕西地市2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226979/index.m3u8
 陕西地市3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227054/index.m3u8
 陕西地市4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227056/index.m3u8
 陕西地市5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227072/index.m3u8
