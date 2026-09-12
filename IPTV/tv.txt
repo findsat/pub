@@ -367,6 +367,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 安康镇坪,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002815/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安康镇坪,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227032/index.m3u8
 
+宝鸡综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227072/index.m3u8
 宝鸡千阳,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226945/index.m3u8
 宝鸡千阳,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002425/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宝鸡太白,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227083/index.m3u8
@@ -413,7 +414,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 陕西地市1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227040/index.m3u8
 陕西地市3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227054/index.m3u8
 陕西地市4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227056/index.m3u8
-陕西地市5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227072/index.m3u8
+
 陕西地市6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227086/index.m3u8
 陕西地市7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227092/index.m3u8
 陕西地市8,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
