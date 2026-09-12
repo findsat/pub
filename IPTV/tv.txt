@@ -445,10 +445,10 @@ LBRTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
 百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227116/index.m3u8
 百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227119/index.m3u8
 
-游戏,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227122/index.m3u8
-游戏1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227085/index.m3u8
-游戏2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227088/index.m3u8
-游戏？,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227108/index.m3u8
+游戏直播,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227122/index.m3u8
+游戏直播,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227085/index.m3u8
+游戏直播,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227088/index.m3u8
+游戏直播,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227108/index.m3u8
 
 南方购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227154/index.m3u8
 南方购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227171/index.m3u8
