@@ -350,6 +350,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 咸阳旬邑,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227077/index.m3u8
 咸阳旬邑,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002708/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 咸阳泾阳,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226979/index.m3u8
+咸阳泾阳,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002566/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 汉中宁强,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
 汉中宁强,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -359,7 +360,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 汉中西乡,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 安康综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安康汉滨,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+安康综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
 安康宁陕,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226998/index.m3u8
 安康宁陕,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002787/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安康岚皋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227057/index.m3u8
@@ -427,7 +428,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 陕西地市1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227040/index.m3u8
 陕西地市2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002792/index.m3u8?virtualDomain=yinhe.live_hls.zte.com地市4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227056/index.m3u8
 陕西地市21-BZTV,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002802/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西地市24-JYTV,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002566/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 购物 失效,#genre#
 LBRTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
