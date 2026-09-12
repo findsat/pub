@@ -407,6 +407,8 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 榆林神木,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002575/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 榆林府谷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226990/index.m3u8
 榆林府谷,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002565/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+榆林横山,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227054/index.m3u8
+榆林横山,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002695/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 渭南综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 渭南综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/index.m3u8
@@ -415,17 +417,10 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 渭南蒲城,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226976/index.m3u8
 渭南蒲城,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002615/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-
-陕西地市3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227054/index.m3u8
-陕西地市3,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002695/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-
 陕西地市6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227086/index.m3u8
 陕西地市6,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002807/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 陕西地市7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227092/index.m3u8
 陕西地市7,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002885/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 陕西地市13,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002755/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西地市13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226983/index.m3u8
 
@@ -433,7 +428,6 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 陕西地市2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002792/index.m3u8?virtualDomain=yinhe.live_hls.zte.com地市4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227056/index.m3u8
 陕西地市21-BZTV,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002802/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西地市24-JYTV,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002566/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 
 购物 失效,#genre#
 LBRTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
@@ -473,5 +467,5 @@ LBRTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
 陕西影视频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
 陕西乐家购物,,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226362/index.m3u8
 陕西乐家购物,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-西安商务资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-西安商务资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001732/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑屏,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
+黑屏,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001732/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
