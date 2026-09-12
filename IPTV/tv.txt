@@ -399,11 +399,11 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 渭南蒲城,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002615/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227076/index.m3u8
-无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227079/index.m3u8
-无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227082/index.m3u8
-无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227085/index.m3u8
-无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227088/index.m3u8
-无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227105/index.m3u8
+百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227079/index.m3u8
+百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227082/index.m3u8
+游戏1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227085/index.m3u8
+游戏2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227088/index.m3u8
+百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227105/index.m3u8
 无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227108/index.m3u8
 无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227113/index.m3u8
 无台标,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227116/index.m3u8
