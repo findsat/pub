@@ -460,17 +460,15 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 渭南蒲城,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226976/index.m3u8
 渭南蒲城,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002615/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-
-
-
-
-
-
-
-
-
 购物 失效,#genre#
 LBRTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
+待识别-dbiptv-3221226372,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+待识别-dbiptv-3221226556,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+待识别-dbiptv-3221227017,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227017/index.m3u8
+待识别-yinhe-1268,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001268/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+待识别-yinhe-1156,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+待识别-yinhe-1157,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227076/index.m3u8
 百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227079/index.m3u8
 百事通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227082/index.m3u8
