@@ -31,6 +31,7 @@ CCTV-5+体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/inde
 CCTV-5+体育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-5+体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227110/index.m3u8
 CCTV-5+体育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002935/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-5+体育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002945/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227073/index.m3u8
@@ -44,6 +45,7 @@ CCTV-7国防军事,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000
 CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8电视剧,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227093/index.m3u8
+CCTV-8电视剧,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002955/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV-9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9纪录,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -315,6 +317,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227096/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227168/index.m3u8
 陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002965/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
 陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227099/index.m3u8
@@ -497,6 +500,8 @@ LBRTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
 央广购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227186/index.m3u8
 央广购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226032/index.m3u8
 央广购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227151/index.m3u8
+央广购物,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 好享购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226018/index.m3u8
 好享购物,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001277/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
