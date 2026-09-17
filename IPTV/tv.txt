@@ -651,10 +651,10 @@ LYTV（全称待核）,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 陕西地市13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227031/index.m3u8
 陕西地市14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227034/index.m3u8
 陕西地市15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227043/index.m3u8
-陕西地市16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227050/index.m3u8
-陕西地市17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227051/index.m3u8
+渭南华州,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227050/index.m3u8
+渭南白水,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227051/index.m3u8
 陕西地市18,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227074/index.m3u8
-陕西地市19,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227089/index.m3u8
+宝鸡凤翔,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227089/index.m3u8
 陕西地市20,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西地市21,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西地市22,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001819/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
